@@ -1,0 +1,14 @@
+{
+    "type": "forge:add_spawns",
+    "biomes":[
+    "minecraft:lush_caves",
+    "minecraft:dripstone_caves",
+    "minecraft:deep_dark"
+    ],
+    "spawners": {
+      "type": "examplemod:digger_entity",
+      "weight": 75,
+      "minCount": 1,
+      "maxCount": 7
+    }
+  }

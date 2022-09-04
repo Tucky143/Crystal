@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern": [
+        "11 ",
+        " 2 ",
+        " 2 "
+    ],
+    "key": {
+"1":{
+    "item": "examplemod:crystal"
+},
+"2":{
+    "item": "examplemod:rod"
+}
+    },
+    "result": {
+        "item": "examplemod:example_hoe"
+    }
+}

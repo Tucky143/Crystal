@@ -1,0 +1,16 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern": [
+        "  2",
+        " 2 ",
+        "2  "
+    ],
+    "key": {
+"2":{
+    "item": "minecraft:stone"
+}
+    },
+    "result": {
+        "item": "examplemod:rod"
+    }
+}

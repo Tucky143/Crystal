@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/crop",
+    "textures": {
+      "crop": "examplemod:block/caveberry_stage4"
+    },
+    "render_type":"cutout"
+
+  }
