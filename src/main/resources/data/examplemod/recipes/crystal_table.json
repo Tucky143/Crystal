@@ -1,0 +1,19 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern": [
+        "212",
+        "121",
+        "212"
+    ],
+    "key": {
+"1":{
+    "item": "examplemod:crystal"
+},
+"2":{
+    "item": "minecraft:stone"
+}
+    },
+    "result": {
+        "item": "examplemod:crystal_table"
+    }
+}

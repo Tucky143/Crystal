@@ -1,0 +1,15 @@
+{
+  "type": "examplemod:crystal",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:checkerboard",
+        "biomes":[
+          "minecraft:dripstone_caves",
+          "minecraft:lush_caves",
+          "minecraft:deep_dark"
+            ]
+      } 
+    }
+  }

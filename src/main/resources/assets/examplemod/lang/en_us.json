@@ -1,0 +1,39 @@
+{
+"item.examplemod.crystal":"Crystal",
+"item.examplemod.rawcrystal":"Raw Crystal",
+"block.examplemod.example_block":"Block of Crystals",
+"block.examplemod.example_ore":"Crystal Ore",
+"block.examplemod.caveberry_crop":"Caveberry Crop",
+"block.examplemod.deepslate_example_ore":"Deepslate Crystal Ore",
+"itemGroup.tutorial_tab":"Below",
+"item.examplemod.caveberry":"Caveberry",
+"item.examplemod.caveberry_seeds":"Caveberry Seeds",
+"entity.minecraft.villager.examplemod.crystal_master": "Crystal Master",
+"entity.minecraft.villager.examplemod.noob": "Noob",
+"block.examplemod.crystal_table":"Crystal Table",
+"enchantment.examplemod.striker": "Striker",
+"enchantment.examplemod.piercer": "Burst Of Flames",
+"item.examplemod.example_sword":"Crystal Sword",
+"item.examplemod.example_pickaxe":"Crystal Pickaxe",
+"item.examplemod.example_shovel":"Crystal Digger",
+"item.examplemod.example_axe":"Crystal Axe",
+"item.examplemod.example_hoe":"Crystal Hoe",
+"item.examplemod.rod":"Stone Rod",
+"item.examplemod.crystal_water_bucket":"Magic Crystal Water Bucket",
+"item.examplemod.example_helmet":"Crystal Helmet",
+"item.examplemod.example_leggings":"Crystal Leggings",
+"item.examplemod.example_chestplate":"Crystal Chestplate",
+"item.examplemod.example_boots":"Crystal Boots",
+"item.examplemod.crystal_staff":"Crystal Staff",
+"enchantment.examplemod.swipe": "Swipe",
+"enchantment.examplemod.boom": "!Boom!",
+"block.examplemod.c_enderchest":"Crystal Chest",
+"item.examplemod.digger_entity_spawn_egg": "Spawn Digger"
+
+
+
+
+
+
+
+}
