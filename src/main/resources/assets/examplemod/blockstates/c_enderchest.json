@@ -1,8 +1,0 @@
-{
-	"variants": {
-		"facing=north": { "model": "examplemod:block/c_enderchest" },
-		"facing=south": { "model": "examplemod:block/c_enderchest", "y": 180 },
-		"facing=west": { "model": "examplemod:block/c_enderchest", "y": 270 },
-		"facing=east": { "model": "examplemod:block/c_enderchest", "y": 90 }
-	}
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "block/orientable",
-  "textures": {
-      "front": "examplemod:block/c_enderchest_front",
-      "side": "examplemod:block/c_enderchest_side",
-      "top": "examplemod:block/c_enderchest_top"
-  }
-}

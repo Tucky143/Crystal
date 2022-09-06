@@ -1,6 +1,0 @@
-{
-    "variants": {
-      "axis=z": { "model": "examplemod:block/crystal_portal_ew" },
-      "axis=x": { "model": "examplemod:block/crystal_portal_ns" }
-    }
-  } 
